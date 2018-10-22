@@ -10,12 +10,15 @@
 
     <style>
         .barra{
+            opacity: 0.3;
     background-color: #00a2d5;
     position: fidex;
     top: -60px;
     left: auto;
     right: auto ;
     height: 35px;
+    
+    
 }
     img.usuario{
         position:absolute;
@@ -74,8 +77,8 @@
                                 
                             <div class="col-10">
                                         
-                                         <img src="alimento2.jpg"  width="1300" height="300" >
-                                           <img src="logo.png"  class="logo" alt="Responsive image">
+                                         <img src="test1.jpg"  width="1300" height="200" >
+                                           <img src="logo3.png"  class="logo" alt="Responsive image">
                                             
                                            <button type="button" class="carrinho btn badge badge-pill badge-light">Meu Carrinho  </button>
                                            <img src="http://www.youthhorizons.org/wp-content/uploads/2017/02/cart-138x150.png" class="icon" width="80" height="80">
@@ -120,7 +123,7 @@
                     <div class="row">
                         <div class="col-2">              
                         
-                        <a href="http://www.irmaosgoncalves.com.br/" target="_blanck"><img class="border border-info rounded-circle" src="http://www.unimake.com.br/images/parceiros/danfeviewoffice/irmaosgoncalves.png" width="150" height="150"></a>
+                        <a href="produtos.php" target="_blanck"><img class="border border-info rounded-circle" src="http://www.unimake.com.br/images/parceiros/danfeviewoffice/irmaosgoncalves.png" width="150" height="150"></a>
                         </div>
 
                         <div class="col-2">
@@ -297,7 +300,7 @@
                     </div>    
 
                 </div> 
-                    <button class="btn btn-info" type="submit">Submit form</button>
+                    <button class="btn btn-info" type="submit">Enviar Dados</button>
                 </form>
               <br>
 
@@ -349,12 +352,13 @@
       </footer>
     
 
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-        crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em"
-        crossorigin="anonymous"></script>
-    <script src="https://igorescobar.github.io/jQuery-Mask-Plugin/js/jquery.mask.min.js"></script>
+     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/js/bootstrap.min.js" integrity="sha384-o+RDsa0aLu++PJvFqy8fFScvbHFLtbvScb8AjopnFD+iEQ7wo/CG0xlczd+2O/em" crossorigin="anonymous"></script>
+	<script src="https://igorescobar.github.io/jQuery-Mask-Plugin/js/jquery.mask.min.js"></script> 
+	
+	<script>
+
 
 </body>
 </html>
